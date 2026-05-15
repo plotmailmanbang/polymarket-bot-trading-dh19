@@ -1,4 +1,4 @@
-# 
+# Polymarket vip Strategy: backtesting & prediction-market-scanning offers the most advanced Polymarket strategy, with backtesting and prediction-market-scanning. Ideal for
 
 
 
